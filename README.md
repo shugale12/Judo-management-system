@@ -35,7 +35,9 @@
 
 **Outputs:** 
 - Itemized cost breakdown  
-- Weight comparison report  
+- Weight comparison report
+
+![User Requirements ](assets/images/)
 
 ---
 
@@ -47,14 +49,14 @@
 | Weight Analyzer | Visual category comparison |  
 | Input Validation | Prevents invalid data entry |  
 
-![Flow-chart](assets/images/Flowchartimages.jpg)
+![Flow-chart](assets/images/Flow_chart_images.jpg)
 
 
 # Sample Output images
-![Sample Output images](assets/images/welcomepage.png)
-![Sample Output images](assets/images/inputpage.png)
-![Sample Output images](assets/images/registermorecandidate.png)
-![Sample Output images](assets/images/errorhandingpage.png)
+![Sample Output images](assets/images/welcome_page.png)
+![Sample Output images](assets/images/input_page.png)
+![Sample Output images](assets/images/register_more_candidate.png)
+![Sample Output images](assets/images/error_handing_page.png)
 
 
 # Future Enhancements
