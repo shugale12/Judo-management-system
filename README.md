@@ -15,9 +15,7 @@
    - [Input Validation](#input-validation)  
    - [Cost Calculation](#cost-calculation)  
    - [Weight Comparison](#weight-comparison)  
-   - [Main Program Loop](#main-program-loop)  
-- [Repository Structure](#repository-structure)  
-- [How to Use](#how-to-use)   
+   - [Main Program Loop](#main-program-loop)   
 
 ---
 
@@ -49,7 +47,27 @@
 | Weight Analyzer | Visual category comparison |  
 | Input Validation | Prevents invalid data entry |  
 
-![Flow-chart](assets/images/Flowchartimages.png)
+![Flow-chart](assets/images/Flowchartimages.jpg)
+
+
+# Sample Output images
+![Sample Output images](assets/images/welcomepage.png)
+![Sample Output images](assets/images/inputpage.png)
+![Sample Output images](assets/images/registermorecandidate.png)
+![Sample Output images](assets/images/errorhandingpage.png)
+
+
+# Future Enhancements
+ - Athlete performance tracking
+ - Training session scheduler
+ - Database integration
+
+# Project Challenges
+ - Challenge: Complex input validation
+ - Solution: Implemented recursive validation with clear error messages
+
+ - Challenge: Dynamic cost calculation
+  - Solution: Created modular pricing functions
 
 ---
 
@@ -155,9 +173,5 @@ def main():
 ---
 
 
-# [Sample Output images]
-![Sample Output images](assets/images/welcome page.png)
-![Sample Output images](assets/images/input page .png)
-![Sample Output images](assets/images/register more candidate.png)
-![Sample Output images](assets/images/error handing page.png)
+
 
