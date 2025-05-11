@@ -37,7 +37,7 @@
 - Itemized cost breakdown  
 - Weight comparison report
 
-![User Requirements ](assets/images/)
+![User Requirements ](assets/images/assets/docs/Final_Project.docx)
 
 ---
 
