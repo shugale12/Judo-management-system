@@ -37,7 +37,6 @@
 - Itemized cost breakdown  
 - Weight comparison report
 
-![User Requirements ](assets/docs/Final_project_repor.docx)
 
 ---
 
@@ -48,8 +47,6 @@
 | Cost Calculator | Training/competition fee breakdown |  
 | Weight Analyzer | Visual category comparison |  
 | Input Validation | Prevents invalid data entry |  
-
-![Flow-chart](assets/images/Flow_chart_images.jpg)
 
 
 # Sample Output images
