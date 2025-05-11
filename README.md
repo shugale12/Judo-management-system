@@ -7,7 +7,7 @@
 - [Project Overview](#project-overview)  
 - [User Requirements](#user-requirements)  
 - [System Features](#system-features)
-- [Sample Output images](#sample-output) 
+- [Sample Output images](#sample-output-images) 
 - [Future Enhancements](#future-enhancements)  
 - [Project Challenges](#project-challenges)
 - [Code Implementation](#code-implementation)  
@@ -37,7 +37,7 @@
 - Itemized cost breakdown  
 - Weight comparison report
 
-![User Requirements ](assets/images/assets/docs/Final_Project.docx)
+![User Requirements ](assets/docs/Final_project_repor.docx)
 
 ---
 
