@@ -50,9 +50,17 @@
 
 
 # Sample Output images
+
+ - Application Welcome 
 ![Sample Output images](assets/images/welcome_page.png)
+
+ - Application Output
 ![Sample Output images](assets/images/input_page.png)
+
+ - Register unlimited athletes
 ![Sample Output images](assets/images/register_more_candidate.png)
+
+ - Error Handling
 ![Sample Output images](assets/images/error_handing_page.png)
 
 
@@ -66,7 +74,7 @@
  - Solution: Implemented recursive validation with clear error messages
 
  - Challenge: Dynamic cost calculation
-  - Solution: Created modular pricing functions
+ - Solution: Created modular pricing functions
 
 ---
 
