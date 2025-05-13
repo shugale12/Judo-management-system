@@ -2,7 +2,8 @@
 
 
 
-![website image](assets/images/.png)
+![website image](assets/images/judo_profile_pic.jpg)
+
 
 
 
